@@ -1,0 +1,21 @@
+{
+    "userFriendlyId": "hi_there",
+    "text": "Hello world!\nMy name is Boris.\nLondon is the capital of Great Britain.",
+    "caption": "Hi there!",
+    "exploredParts": [
+        { "text": "asdf\nqwer\nzxcv", "caption": "Part I", "conversation": [
+            { "author": "George Minashin", "text": "lorem ipsum i dont know what else" },
+            { "author": "george minashin", "text": "my comment" },
+            { "author": "georgiy alekseevich minashin", "text": "zag-zag" },
+            { "author": "georgiy a. minashin", "text": "hello world" },
+            { "author": "hoborg91", "text": "asdfjlk alsjkdfl asdlfjjkalsdljkhajskdhfkhasdrfuaweuruiwqauieruiyasdlfjjkalsdljkhajskdhfkhasdrfuaweuruiwqauieruiyasdlfjjkalsdljkhajskdhfkhasdrfuaweuruiwqauieruiy yuiqwuieruiyqwu retuyrit yurwq qruyetyuwqrei wre tuiyerwt uuiywerui iuwe iutuw uuiweurtuiweu uiwit iuyrtiuwert" },
+            { "author": "Hoborg91", "text": "`asjkld\nasdljkjklasdljk asd\nfasdfkljasljkdf lj\nasljkdljka s\naskajs;ldjlk as\na;ksdjflkas\naask;djlk\nas;djkjlkasd\nasdlkjlajksdg\nakls`" }
+        ], "notes": [
+            "Some note",
+            "Another note. Ahkaksdf aksj dfasdfh iuiu. Qiadfaydfaisdyriqwery iuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasy dasdfjkh iwyeri. Ouqowehfkj."
+        ] },
+        { "text": "ashldf hjasdhkjhjkasdjhk khjasld aoserfuoiywqr hjkasfh asdkjf iqo dhjfalksjdf", "caption": "Part II", "parts": [ { "text": "Something here", "caption": "Note" }] },
+        { "text": "asdf lkjasdfjlljaksdf\nasdlkfljkasdljf a\nas;ldjljiksadl hfalshd lfo iuyaosdf89823r h f\nasldkfljkash di342rhf\nasdlfkhas dfi7ah asdlkhf flasdf oyaosdf", "caption": "Part III", "linksToThis": [ "Hello", "World", "How do you do" ] },
+        { "text": "Conclusion" }
+    ]
+}

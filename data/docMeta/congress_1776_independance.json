@@ -1,0 +1,16 @@
+{
+    "versions": [
+        {
+            "userFriendlyId": "adams_jefferson_1776_independance_en_draft",
+            "language": "en"
+        },
+        {
+            "userFriendlyId": "congress_1776_independance_en_engrossed_copy",
+            "language": "en"
+        },
+        {
+            "userFriendlyId": "congress_1776_independence_ru",
+            "language": "ru"
+        }
+    ]
+}

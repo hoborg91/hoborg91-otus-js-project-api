@@ -1,0 +1,16 @@
+{
+    "userFriendlyId": "hi_here",
+    "text": "asdfasdf asdf asd fasdf ",
+    "caption": "Hi here!",
+    "exploredParts": [
+        { "text": "asdf\nqwer\nzxcv", "caption": "Part I", "conversation": [
+            { "author": "Ivan Petrov", "text": "lorem ipsum i dont know what else" },
+            { "author": "Maria Smirnova", "text": "my comment" }
+        ], "notes": [
+            "Some note",
+            "Another note. Ahkaksdf aksj dfasdfh iuiu. Qiadfaydfaisdyriqwery iuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasyiuyaiuyfiusydfuyiasdfyiuasy dasdfjkh iwyeri. Ouqowehfkj."
+        ] },
+        { "text": "ashldf hjasdhkjhjkasdjhk khjasld aoserfuoiywqr hjkasfh asdkjf iqo dhjfalksjdf", "parts": [ { "text": "Something here", "caption": "Note" }] },
+        { "text": "Just conclusion", "caption": "Conclusion" }
+    ]
+}
